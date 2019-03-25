@@ -1,6 +1,6 @@
 # Login Demo
 
-Based on [this tutorial](https://www.positronx.io/create-user-with-email-password-in-firebase-and-angular/).
+Based on [this tutorial](https://www.positronx.io/create-user-with-email-password-in-firebase-and-angular/).  
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
 
 
